@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>HomeForm.qml</file>
+        <file>Page1Form.qml</file>
+        <file>Page2Form.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Astronaut.js</file>
+        <file>HomeFomPath.qml</file>
+        <file>Delegate.qml</file>
+        <file>for_project_space/6k-hd-background-stars-universe-astronomy-space-the-milky-wa.jpg</file>
+        <file>for_project_space/images (1).jpg</file>
+        <file>for_project_space/images.jpg</file>
+    </qresource>
+</RCC>
